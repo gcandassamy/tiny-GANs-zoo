@@ -1,0 +1,5 @@
+celeb_dataset
+dataset
+**/logs
+**/__pycache__
+DC-GANs
