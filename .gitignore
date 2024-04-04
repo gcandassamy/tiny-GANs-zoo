@@ -1,5 +1,5 @@
-celeb_dataset
+**/celeb_dataset
 dataset
 **/logs
 **/__pycache__
-DC-GANs
+
